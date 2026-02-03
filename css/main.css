@@ -2,12 +2,12 @@
 body {
     background-color: #fffcee;
     color: #48220f;
-    font-family: 'Shadows Into Light Two', serif;
+    font-family: 'Shadows Into Light Two', sans-serif;
     font-size: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Shadows Into Light Two', serif;
+    font-family: 'Shadows Into Light Two', sans-serif;
     font-weight: 500;
     color: #dc143c;
     text-shadow: 1px 1px 2px #a52a2a;
